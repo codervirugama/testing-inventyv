@@ -58,8 +58,7 @@ git push origin main
 <br>
 
 ### feature1 branch
-
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/3714aeb4-fb3c-4413-92fa-3f006967a01d)
 
 #### 1) Here Create a Different Branch feature1
 ##### Create Branch
@@ -81,8 +80,7 @@ git checkout -b feature1
 <br>
 
 ## website-flow
-
-![alt text](image-3.png)
+![image-3](https://github.com/user-attachments/assets/be406abe-1dd0-4f50-9191-38b555811f97)
 
 #### 1) Here Create a Different Branch Name is feature1
 
@@ -97,15 +95,13 @@ git merge feature1
 <br>
 
 ## website-flow/git-merge-test 
-
-![alt text](image-4.png)
+![image-4](https://github.com/user-attachments/assets/49f0235d-0eee-4b70-9f4d-eeb31555be85)
 
 <br>
 <br>
 
 ## Visualizing-git 
-
-![alt text](image-5.png)
+![image-5](https://github.com/user-attachments/assets/15c1aff4-c835-45a7-8aa1-646d87ce806c)
 
 #### 1) Here Create a Different Branch
 ```
