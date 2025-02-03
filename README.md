@@ -1,5 +1,5 @@
-# testing-inventyv
-testing-inventyv Github training By Aman Sir 
+# Git-Training-Aman-Sir
+Github training By Aman Sir 
 
 Here is the list of topics that we will cover in this training:
 
